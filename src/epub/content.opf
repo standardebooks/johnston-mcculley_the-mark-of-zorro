@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/johnston-mcculley/the-mark-of-zorro</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-06-13T17:59:58Z</dc:date>
+		<meta property="dcterms:modified">2022-06-13T17:59:58Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,17 +46,23 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
-		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">While mild mannered Don Diego Vega seeks a bride, cloaked crusader Señor Zorro (Mr. Fox) rides the dangerous highway of Mexican California, armed with a sword, whip, and pistol—righting wrongs, defending the weak, and punishing injustice.</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Zorro</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
+		<dc:description id="description">While mild-mannered Don Diego Vega seeks a bride, the cloaked crusader Señor Zorro rides the dangerous highway of Mexican California, armed with a sword, whip, and pistol—righting wrongs, defending the weak, and punishing injustice.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;While mild mannered Don Diego Vega seeks a bride, cloaked crusader Señor Zorro (Mr. Fox) rides the dangerous highway of Mexican California, armed with a sword, whip, and pistol—righting wrongs, defending the weak, and punishing injustice. This story of Zorro is set in Reina de Los Angeles, in southern California circa 1800 when California was a part of Mexico which itself was controlled by Spain. The Los Angeles of this time is populated by four societies that must coexist, but that coexistence is out of balance. The oldest and least powerful group is the “natives” who live in the pueblo. Next come the clergy, the &lt;i&gt;friales&lt;/i&gt; who first planted the orchards and who live in the missions. Next, are the gentry who live as dons and doñas on feudal estates, or haciendas. Finally, the land is ruled from San Francisco de Asis by an unjust governor in control of the army under whose rule the natives are abused, the &lt;i&gt;friales&lt;/i&gt; mistreated, and the gentry disrespected. This is the story of a young man of “good blood” who decides he must create balance in this frontier society.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/johnston-mcculley"&gt;Johnston McCulley&lt;/a&gt; wrote stories of Zorro for forty years and this, his first story, was originally serialized as &lt;i&gt;The Curse of Capistrano&lt;/i&gt; for magazine publication. Señor Zorro went on to leave a deep impression on popular culture and has appeared in the work of many other authors and artists, in many media, ever since. He has been the subject of over 40 films from around the world and was portrayed by Douglas Fairbanks the year after first publication and 3 years before the story appeared in hardcover. Zorro served as inspiration to both the creator and character of Batman, introduced 20 years later, whose origin story begins at a theater screening a Zorro movie. Señor Zorro has been a staple of stage, page, and screen since his introduction. There have been multiple television and radio series, comics, toys, plays, board games, musicals, a manga graphic novel, and ballets. One reason the character of Zorro endures is that he carries on a tradition of daring and heroic figures, both literary and historic, who precede him. Best known perhaps are the medieval Robin Hood of English folklore whose “merry men” are reminiscent of Zorro’s “avengers” and the Scarlet Pimpernel of revolutionary France. Lesser known is the “Irish Zorro” William Lamport whose statue still stands in Mexico City.&lt;/p&gt;
+			&lt;p&gt;While mild-mannered Don Diego Vega seeks a bride, cloaked crusader Señor Zorro (Spanish for “Mr. Fox”) rides the dangerous highway of Mexican California armed with a sword, whip, and pistol—righting wrongs, defending the weak, and punishing injustice.&lt;/p&gt;
+			&lt;p&gt;The story is set in Reina de Los Angeles, a town in southern California circa 1800 when California was still a part of Mexico, and when Mexico was controlled by Spain. The Los Angeles of this time is populated by four societies that must coexist, but that coexistence is out of balance.&lt;/p&gt;
+			&lt;p&gt;The oldest and weakest group is the “natives” who live in the pueblo. Next come the clergy, the &lt;i&gt;friales&lt;/i&gt; who first planted the orchards and who live in the missions. Then, the gentry, who live as dons and doñas on feudal estates, or haciendas. Finally, the land is ruled by the strongest of these powers, an unjust governor in San Francisco de Asis. He controls the army under whose rule the natives are abused, the &lt;i&gt;friales&lt;/i&gt; mistreated, and the gentry disrespected. This is the story of a young man of “good blood” who decides he must restore balance to this frontier society.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/johnston-mcculley"&gt;Johnston McCulley&lt;/a&gt; wrote stories of Zorro for forty years. This, his first Zorro story, was originally serialized in a magazine as &lt;i&gt;The Curse of Capistrano&lt;/i&gt;. Señor Zorro went on to leave a deep impression on popular culture, and has appeared in the work of many other authors and artists, in many media, ever since.&lt;/p&gt;
+			&lt;p&gt;One reason the character of Zorro endures is that he carries on a tradition of daring and heroic figures, both literary and historic, who precede him. Best known perhaps are the medieval Robin Hood of English folklore whose “merry men” are reminiscent of Zorro’s “avengers,” and the &lt;a href="https://standardebooks.org/collections/scarlet-pimpernel"&gt;Scarlet Pimpernel&lt;/a&gt; of revolutionary France. Lesser known is the real-life figure William Lamport, the “Irish Zorro,” whose statue still stands in Mexico City.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61620</dc:source>
 		<dc:source>https://archive.org/details/markofzorro00mccu</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">68214</meta>
+		<meta property="se:reading-ease.flesch">74.19</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Curse_of_Capistrano</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/johnston-mcculley_the-mark-of-zorro</meta>
 		<dc:creator id="author">Johnston McCulley</dc:creator>
