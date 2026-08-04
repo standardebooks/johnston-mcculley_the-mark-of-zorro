@@ -53,7 +53,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Zorro</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>While mild-mannered Don Diego Vega seeks a bride, the cloaked crusader Señor Zorro rides the dangerous highway of Mexican California, armed with a sword, whip, and pistol—righting wrongs, defending the weak, and punishing injustice.</dc:abstract>
+		<meta property="schema:abstract">While mild-mannered Don Diego Vega seeks a bride, the cloaked crusader Señor Zorro rides the dangerous highway of Mexican California, armed with a sword, whip, and pistol—righting wrongs, defending the weak, and punishing injustice.</meta>
 		<dc:description>
 			&lt;p&gt;While mild-mannered Don Diego Vega seeks a bride, cloaked crusader Señor Zorro (Spanish for “Mr. Fox”) rides the dangerous highway of Mexican California armed with a sword, whip, and pistol—righting wrongs, defending the weak, and punishing injustice.&lt;/p&gt;
 			&lt;p&gt;The story is set in Reina de Los Angeles, a town in southern California circa 1800 when California was still a part of Mexico, and when Mexico was controlled by Spain. The Los Angeles of this time is populated by four societies that must coexist, but that coexistence is out of balance.&lt;/p&gt;
